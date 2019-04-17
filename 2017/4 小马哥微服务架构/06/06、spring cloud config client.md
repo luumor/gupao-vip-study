@@ -21,9 +21,19 @@
 
 Springcloud 和dubbo 区别：Springcloud 管理应用，  dubbo管理服务 关注点不同
 
-### 2、Spring/Spring Boot 时间机制
 
 
+![springcloud生态项目](assets/springcloud生态项目.png)
+
+
+
+
+
+### 2、Spring/Spring Boot 事件机制
+
+#### - 观察者模式
+
+#### - 
 
 
 
